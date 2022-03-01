@@ -2,4 +2,6 @@
 
 Generates tests and upload results to firebase.
 
+Related: https://github.com/garyhtou/cpsc2600-graph-tester
+
 Expects `./hw5` to exist.
